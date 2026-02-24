@@ -1,0 +1,45 @@
+# The Beatles – Oh! Darling (Remastered 2009)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.04] Oh darling
+[00:05.96] Please believe me
+[00:11.26] I'll never do you no harm
+[00:19.01] Believe me when I tell you
+[00:23.99] I'll never do you no harm
+[00:36.49] 
+[00:34.93] Oh darling
+[00:38.92] If you leave me
+[00:44.27] I'll never make it alone
+[00:52.22] Believe me when I beg you
+[00:56.73] Don't ever leave me alone
+[01:09.23] 
+[01:07.94] When you told me
+[01:11.63] You didn't need me anymore
+[01:16.69] Well you know, I nearly broke down and cried
+[01:24.49] When you told me
+[01:28.49] You didn't need me anymore
+[01:32.86] Well you know, I nearly broke down and died
+[01:54.36] 
+[01:40.56] Oh darling
+[01:44.93] If you leave me
+[01:50.04] I'll never make it alone
+[01:58.24] Believe me when I tell you
+[02:02.92] I'll never do you no harm
+[02:15.42] 
+[02:11.18] Believe me darling
+[02:14.08] When you told me
+[02:18.00] You didn't need me anymore
+[02:22.94] Well you know, I nearly broke down and cried
+[02:30.90] When you told me
+[02:34.57] You didn't need me anymore
+[02:39.36] Well you know, I nearly broke down and died
+[03:00.86] 
+[02:47.07] Oh darling
+[02:51.27] Please believe me
+[02:56.83] I'll never let you down
+[03:03.00] Oh believe me darling
+[03:04.73] Believe me when I tell you
+[03:09.90] I'll never do you no harm
+```
